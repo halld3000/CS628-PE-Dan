@@ -1,1 +1,1 @@
-Using react app tool, I created a frontend user interface written using JavaScript language and styled with Cascading Style Sheets (CSS). The java and CSS are then combined using Webpack.  
+Using react app tool, I created a frontend user interface written using JavaScript language. Using the App.js file I build the components that will incompass the webpage. I then used the Resume.js file styled with Cascading Style Sheets (CSS) the java and CSS are then combined using Webpack. The app is then ran using the Node Package Manager (NPM). We are able to deploy are page. 
