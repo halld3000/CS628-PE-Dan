@@ -1,1 +1,2 @@
 # CS628
+The following program uses react and the useState hook to manage the to do list. App.js is the parent component, it passes to child components. TodoList.js has functions to add and delete task, it displays the input field and add task button. Captures user input and sends it back to App.js. Renders a list of TodoItem compnents dynamically using .map(). TodoItem.js represents a single ToDo item, contains the task delet button. Calls the deleteTodo function and passes it to App.js.
